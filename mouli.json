@@ -9,7 +9,8 @@
             "rule30.suite.js",
             "rule90.suite.js",
             "rule110.suite.js",
-            "window-move.suite.js"
+            "window-move.suite.js",
+            "error.suite.js"
         ]
     }
 }
