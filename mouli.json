@@ -1,0 +1,9 @@
+{
+    "rootDir": "./dist",
+    "binaries": {
+        "wolfram": "wolfram"
+    },
+    "suites": {
+        "default": []
+    }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "@minimouli/wolfram",
+  "version": "1.0.0",
+  "keywords": [
+    "minimouli",
+    "project=wolfram",
+    "school=epitech"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepack": "yarn run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minimouli/wolfram.git"
+  },
+  "bugs": {
+    "url": "https://github.com/minimouli/wolfram/issues"
+  },
+  "homepage": "https://github.com/minimouli/wolfram",
+  "license": "MIT",
+  "files": [
+    "dist/**/*",
+    "res/**/*",
+    "mouli.json"
+  ],
+  "dependencies": {
+    "@minimouli/framework": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "typescript": "^4.6.2"
+  }
+}
