@@ -4,6 +4,8 @@
         "wolfram": "wolfram"
     },
     "suites": {
-        "default": []
+        "default": [
+            "basic.suite.js"
+        ]
     }
 }
