@@ -6,7 +6,8 @@
     "suites": {
         "default": [
             "basic.suite.js",
-            "rule30.suite.js"
+            "rule30.suite.js",
+            "rule90.suite.js"
         ]
     }
 }
